@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<records>
+   <table>
+      <name>Square</name>
+      <cost>100000</cost>
+      <height>50000</height>
+   </table>
+   <table>
+      <name>Square</name>
+      <cost>100000</cost>
+      <height>50000</height>
+   </table>
+   <table>
+      <name>Square</name>
+      <cost>100000</cost>
+      <height>50000</height>
+   </table>
+   
+	
+</records>
